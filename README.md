@@ -74,5 +74,7 @@ UI displays the users registered and then the messages.
 
   ## how to run UI
     mix phx.server
+    
+   Youtube : https://youtu.be/J5IJXLt4Frk
 
 
