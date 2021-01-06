@@ -1,0 +1,30 @@
+<div class="row">
+  <div class="col-md-12">
+    <h1>Welcome to Twitter Simulation</h1>
+  </div>
+</div>
+
+<section>
+  <h2>Users</h2>
+  <table style="width:100%">
+    <thead>
+      <tr>
+        <th>ID: Name</th>
+      </tr>
+    </thead>
+    <tbody id="users">
+    </tbody>
+  </table>
+</section>
+<section>
+  <h2>Messages</h2>
+  <table style="width:100%">
+    <thead>
+      <tr>
+        <th>User: Message: Type</th>
+      </tr>
+    </thead>
+    <tbody id="blocks">
+    </tbody>
+  </table>
+</section>
